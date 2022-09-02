@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://jles.work/about-me-2.html",
+            "url": "https://jles.work/about-me-2.html",
+            "title": "About me",
+            "summary": "I’m an imaginative idealist fascinated by logical analysis, systems, and design. I see the potential for a better future as a creative nurturer with a strong sense of personal integrity and a drive to help others realize their potential. While being creative and dedicated, I&hellip;",
+            "content_html": "<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://jles.work/media/posts/3/jle.png\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://jles.work/media/posts/3/responsive/jle-xs.png 300w ,https://jles.work/media/posts/3/responsive/jle-sm.png 480w ,https://jles.work/media/posts/3/responsive/jle-md.png 768w\"  alt=\"\" width=\"218\" height=\"290\"></figure>I’m an imaginative idealist fascinated by logical analysis, systems, and design. I see the potential for a better future as a creative nurturer with a strong sense of personal integrity and a drive to help others realize their potential. While being creative and dedicated, I have a talent for helping others with original solutions to their personal challenges.<br><br>I have worked with teams tackling challenges in global and complex IT environments, designing and developing distributed enterprise-class systems. I have been the conduit between the business and developers, making sure the teams are doing the right things.<br><br>Thanks for reading!</p>",
+            "author": {
+                "name": "Jaakko Leskinen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T11:08:18+03:00",
+            "date_modified": "2022-09-02T11:09:18+03:00"
+        },
+        {
             "id": "https://jles.work/skills.html",
             "url": "https://jles.work/skills.html",
             "title": "Skills",
@@ -36,7 +50,7 @@
             "tags": [
             ],
             "date_published": "2022-09-02T08:19:26+03:00",
-            "date_modified": "2022-09-02T08:19:26+03:00"
+            "date_modified": "2022-09-02T11:07:33+03:00"
         }
     ]
 }
