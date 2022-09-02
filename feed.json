@@ -5,6 +5,7 @@
     "home_page_url": "https://jles.work",
     "feed_url": "https://jles.work/feed.json",
     "user_comment": "",
+    "icon": "https://jles.work/media/website/jleswork_logo2.png",
     "author": {
         "name": "Jaakko Leskinen"
     },
