@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jles.work",
+    "description": "",
+    "home_page_url": "https://jles.work",
+    "feed_url": "https://jles.work/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jaakko Leskinen"
+    },
+    "items": [
+        {
+            "id": "https://jles.work/skills.html",
+            "url": "https://jles.work/skills.html",
+            "title": "Skills",
+            "summary": "I’m native Finnish speaker and fluent in English. Broad and extensive experience in the IT domain has taught me plenty about IT infrastructure operations and service lifecycle management. I’m always looking for the next big thing in technology. Learning new programming languages is a hobby&hellip;",
+            "content_html": "<p>I’m native Finnish speaker and fluent in English. Broad and extensive experience in the IT domain has taught me plenty about IT infrastructure operations and service lifecycle management. I’m always looking for the next big thing in technology. Learning new programming languages is a hobby that I love and enjoy dearly.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jles.work/media/posts/2/Screenshot-2022-09-02-at-8.20.42.png\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://jles.work/media/posts/2/responsive/Screenshot-2022-09-02-at-8.20.42-xs.png 300w ,https://jles.work/media/posts/2/responsive/Screenshot-2022-09-02-at-8.20.42-sm.png 480w ,https://jles.work/media/posts/2/responsive/Screenshot-2022-09-02-at-8.20.42-md.png 768w\"  alt=\"\" width=\"849\" height=\"371\"></figure>",
+            "author": {
+                "name": "Jaakko Leskinen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T08:20:51+03:00",
+            "date_modified": "2022-09-02T08:20:51+03:00"
+        },
+        {
+            "id": "https://jles.work/about-me.html",
+            "url": "https://jles.work/about-me.html",
+            "title": "About Me",
+            "summary": "I’m an imaginative idealist fascinated by logical analysis, systems, and design. I see the potential for a better future as a creative nurturer with a strong sense of personal integrity and a drive to help others realize their potential. While being creative and dedicated, I&hellip;",
+            "content_html": "<p>I’m an imaginative idealist fascinated by logical analysis, systems, and design. I see the potential for a better future as a creative nurturer with a strong sense of personal integrity and a drive to help others realize their potential. While being creative and dedicated, I have a talent for helping others with original solutions to their personal challenges.</p>\n<p>I have worked with teams tackling challenges in global and complex IT environments, designing and developing distributed enterprise-class systems. I have been the conduit between the business and developers, making sure the teams are doing the right things.</p>\n<p>Thanks for reading!</p>\n",
+            "author": {
+                "name": "Jaakko Leskinen"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T08:19:26+03:00",
+            "date_modified": "2022-09-02T08:19:26+03:00"
+        }
+    ]
+}
